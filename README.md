@@ -13,7 +13,7 @@
     <br>
     <br>
     <a href=''><img src='https://img.shields.io/badge/Project_Page-MEIE-green' alt='Project Page'></a>
-    <a href="https://github.com/yourname/awesomeproject"><img src='https://img.shields.io/badge/Github-Code-blue' alt="Project Page"></a>
+    <a href=''><img src='https://img.shields.io/badge/Github-Code-blue' alt="Project Page"></a>
   </p>
 </p>
 
